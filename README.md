@@ -10,7 +10,7 @@
 
 ### Classes
 
-[UC Berkeley CS294-158 Deep Unsupervised Learning](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/featured)
+[UC Berkeley CS294-158 Deep Unsupervised Learning](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/featured)  
 *by Pieter Abbeel, Peter Chen, Jonathan Ho, & Aravind Srinivas*
 
 
